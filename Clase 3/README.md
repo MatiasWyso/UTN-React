@@ -6,13 +6,13 @@ Este es el tercer ejercicio para el curso de Desarrollador Web con React de la U
 
 En este ejercicio, se pide completar las siguiente tarea:
 
-1. Crear una aplicación con react cli llamada "myapp".[ Hacer click para más detalles.](Consignas.pdf)
+1. Crear una aplicación con react cli llamada "myapp".[ Hacer click para más detalles.](Consigna.pdf)
 2. Desarrollar el maquetado de una pagina de detalle de un producto para un sitio de ecommerce, se deberán visualizar los siguientes datos:
 ● Nombre
 ● Descripción
 ● Precio
 ● SKU
-● Cantidad disponible [ Hacer click para más detalles.](Consignas.pdf)
+● Cantidad disponible [ Hacer click para más detalles.](Consigna.pdf)
 
 
 ## Contribuciones
