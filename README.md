@@ -10,7 +10,7 @@
 
 ## Recursos del Curso
 
-A continuación, encontrarás una lista de recursos que te ayudarán en tu proceso de aprendizaje:
+A continuación, dejo una lista de los recursos que fueron usados en el transcurso de este curso:
 
 1. **Plataforma de Aprendizaje**: https://campus.argentinaprograma.utn.edu.ar/
 
