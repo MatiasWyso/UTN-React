@@ -1,4 +1,4 @@
-![Logo de UTN](https://fmn.unsl.edu.ar/wp-content/uploads/2023/05/banner-ok-argentina-programa.jpg)
+![https://www.argentina.gob.ar/economia/conocimiento/argentina-programa](https://fmn.unsl.edu.ar/wp-content/uploads/2023/05/banner-ok-argentina-programa.jpg)
 # Curso de Desarrollo Web con React - UTN
 
 ## Información del Curso
@@ -28,8 +28,6 @@ A continuación, dejo una lista de los recursos que fueron usados en el transcur
 
 Durante el curso, se asignarán tareas y proyectos para evaluar los conocimientos y habilidades en React. Cada tarea se subirá respectivamente en su carpeta de la clase, con sus consignas y pautas proporcionadas por el instructor.
 
-## Contacto
-
-Atentamente,
-Matías Wysoczanski  
+## Alumno
+Atentamente, Matías Wysoczanski  
 matiaswyso@gmail.com
