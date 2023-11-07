@@ -1,5 +1,34 @@
-# UTN Curso de Desarrollador Web con React 
+# Curso de Desarrollo Web con React - UTN
 
-En esta carpeta se subirán los ejercicios pedidos en cada clase del curso de Desarrollador Web con React de la UTN
+## Información del Curso
 
-## Alumno Matías Wysoczanski
+- **Nombre del Curso**: Desarrollo Web con React
+- **Institución**: Universidad Tecnológica Nacional (UTN)
+- **Instructor**: Verónica Guiñan (Ingeniera Mecatrónica)
+- **Fecha de Inicio**: 30/10
+- **Fecha de Finalización**: 29/11
+
+## Recursos del Curso
+
+A continuación, encontrarás una lista de recursos que te ayudarán en tu proceso de aprendizaje:
+
+1. **Plataforma de Aprendizaje**: https://campus.argentinaprograma.utn.edu.ar/
+
+2. **Herramientas de Desarrollo**:
+   - [Visual Studio Code](https://code.visualstudio.com/) o tu editor de código preferido.
+   - [Node.js](https://nodejs.org/) para ejecutar aplicaciones de React.
+   - [Vite](https://vitejs.dev/) para la creación rápida de proyectos web.
+   - [Git](https://git-scm.com/) para el control de versiones.
+
+3. **Bibliotecas y Frameworks**:
+   - [Bootstrap](https://getbootstrap.com/) para el diseño y estilización de tus aplicaciones.
+
+## Tareas y Evaluación
+
+Durante el curso, se asignarán tareas y proyectos para evaluar los conocimientos y habilidades en React. Cada tarea se subirá respectivamente en su carpeta de la clase, con sus consignas y pautas proporcionadas por el instructor.
+
+## Contacto
+
+Atentamente,
+Matías Wysoczanski  
+matiaswyso@gmail.com
